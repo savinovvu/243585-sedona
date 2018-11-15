@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Василий Савинов](https://up.htmlacademy.ru/htmlcss/23/user/243585).
-* Наставник: [Александ Тубольцев](https://htmlacademy.ru/profile/id86460).
+* Наставник: [Александр Тубольцев](https://htmlacademy.ru/profile/id86460).
 
 ---
 
